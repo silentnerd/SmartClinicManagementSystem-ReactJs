@@ -1,5 +1,7 @@
 # Full Stack Application with React, Spring Boot, AWS S3 Bucket, RFID
 ## Smart Clinic Management System using RFID
+![alt text](https://github.com/silentnerd/SmartClinicManagementSystem-ReactJs/blob/master/patientdashabord.png?raw=true)
+
 A web application which digitalise the process of clinic management in government hospitals.
 The objective of this application is to reduce the waiting time of the patient in the clinical department. More over it also
 ensures that patient data are secure it all their records and results.
