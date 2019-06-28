@@ -39,6 +39,12 @@ ensures that patient data are secure it all their records and results.
 
 	+ change `spring.datasource.username` and `spring.datasource.password` properties as per your mysql installation
 
+4. **Change AWS Configuration settings**
+
+	+ open `src/main/resources/application.properties` file.
+	
+	+ change `aws.access.key.id = #`, `aws.access.key.secret = #` and `aws.region = #`
+
 4. **Run the app**
 
 	You can run the spring boot app by typing the following command -
@@ -47,7 +53,7 @@ ensures that patient data are secure it all their records and results.
 	mvn spring-boot:run
 	```
 
-	The server will start on port 8080.
+	The server will start on port 5000.
 
 
 ## Steps to Setup the React Front end app (scms-client)
