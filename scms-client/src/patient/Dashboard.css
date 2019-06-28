@@ -1,0 +1,60 @@
+.new-poll-container {
+    max-width: 520px;
+}
+
+.create-poll-form-button {
+    width: 100%;
+}
+
+.create-poll-form-button[disabled], .create-poll-form-button[disabled]:hover, .create-poll-form-button[disabled]:focus {
+    opacity: 0.6;
+    color: #fff;
+    background-color: #1890ff;
+    border-color: #1890ff;
+}
+
+
+.dynamic-delete-button {
+    cursor: pointer;
+    position: relative;
+    top: 4px;
+    font-size: 24px;
+    color: #999;
+    transition: all .3s;
+}
+
+.optional-choice {
+    width: calc(100% - 35px);
+    margin-right: 8px;
+}
+
+.dynamic-delete-button:hover {
+    color: #777;
+}
+
+.dynamic-delete-button[disabled] {
+    cursor: not-allowed;
+    opacity: 0.5;
+}
+
+.poll-form-row {
+    margin-bottom: 20px;
+}
+
+.poll-form-row input, .poll-form-row textarea {
+    margin-bottom: 4px;
+}
+
+.steps-content {
+    margin-top:16px;
+    border: 1px dashed #e9e9e9;
+    border-radius: 6px;
+    background-color: #fafafa;
+    min-height: 200px;
+    padding: 10px;
+}
+
+.steps-action {
+    margin-top: 24px;
+}
+

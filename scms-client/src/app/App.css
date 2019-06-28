@@ -1,0 +1,21 @@
+.app-content {
+  margin-top: 64px;   
+}
+
+ #memberid {
+
+   border: none;
+   border-radius: 2px;
+
+   -webkit-box-shadow: inset 0px 0px 13px -8px rgba(0, 0, 0, 0.75);
+   -moz-box-shadow: inset 0px 0px 13px -8px rgba(0, 0, 0, 0.75);
+   box-shadow: inset 0px 0px 13px -8px rgba(0, 0, 0, 0.75);
+
+ }
+ #components-layout-demo-top-side-2 .logo {
+   width: 120px;
+   height: 31px;
+   background: rgba(255, 255, 255, .2);
+   margin: 16px 28px 16px 0;
+   float: left;
+ }

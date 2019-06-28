@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "amazonProperties",
+    "type": "java.lang.String",
+    "description": "A description for 'amazonProperties'"
+  },
+  {
+    "name": "amazonProperties.endpointUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'amazonProperties.endpointUrl'"
+  },
+  {
+    "name": "amazonProperties.accessKey",
+    "type": "java.lang.String",
+    "description": "A description for 'amazonProperties.accessKey'"
+  },
+  {
+    "name": "amazonProperties.secretKey",
+    "type": "java.lang.String",
+    "description": "A description for 'amazonProperties.secretKey'"
+  },
+  {
+    "name": "amazonProperties.bucketName",
+    "type": "java.lang.String",
+    "description": "A description for 'amazonProperties.bucketName'"
+  }
+]}
